@@ -5,6 +5,8 @@
 [![Issues](https://img.shields.io/github/issues/bxrechka32/movie-list)](https://github.com/bxrechka32/movie-list/issues)
 [![License](https://img.shields.io/github/license/bxrechka32/movie-list)](LICENSE)
 
+[Click to go to deploy](https://manas-shinde.github.io/movies-list/)
+
 ## Описание
 Простое веб-приложение для управления списком фильмов. Учебный проект **KR4 Brusilov** демонстрирует навыки фронтенд-разработки на чистом JavaScript.[attached_file:1]
 
